@@ -1,0 +1,1 @@
+Espacio para almacenar los objetos de la galería.

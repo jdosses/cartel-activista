@@ -11,7 +11,7 @@
 </a>
 </p>
 <p>
-<a rel="ar" href="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-android-joined.usdz?raw">
+<a rel="ar" href="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-ios12.usdz?raw=true">
 <img src="https://i.imgur.com/KollzUJ.jpg" width="auto" height="auto" alt="Augmented reality AR">
 </a>
 </p>

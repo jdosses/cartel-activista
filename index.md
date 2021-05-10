@@ -11,10 +11,10 @@
 <img src="https://i.imgur.com/KollzUJ.jpg" width="auto" height="auto" alt="Augmented reality iOS 13+">
 </a>
 </p>
-<p>
+<div id="preview-container" style="width:100%; height:auto;">
 <model-viewer src="https://jdosses.github.io/cartel-activista/nomasviolencia-android-2.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/cartel-activista/nomasviolencia-iOS-2.usdz#callToAction=Go%20back&checkoutTitle=No%20+%20ESMAD&checkoutSubtitle=¡Viva%20el%20paro%20Nacional!%20" camera-orbit="-159.3deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/KollzUJ.jpg">
 </model-viewer>
-</p>
+</div>
 </div> 
 </div> 
 </body>

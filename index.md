@@ -12,7 +12,7 @@
 </a>
 </p>
 <p>
-<model-viewer src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-android-2.glb?raw=true" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-iOS-2.usdz?raw=true" camera-orbit="102.9deg 98.18deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate camera-controls>
+<model-viewer src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-android-2.glb?raw=true" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-iOS-2.usdz?raw=true" camera-orbit="102.9deg 98.18deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m">
 <div><img src="https://i.imgur.com/KollzUJ.jpg" width="auto" height="auto"></div>
 </model-viewer>
 

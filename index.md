@@ -12,9 +12,19 @@
 </a>
 </p>
 <p>
-<a rel="ar" href="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-ios12.usdz?raw=true">
-<img src="https://i.imgur.com/KollzUJ.jpg" width="auto" height="auto" alt="Augmented reality iOS 12">
-</a>
+<model-viewer src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-android-2.glb?raw=true" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-iOS-2.usdz?raw=true" camera-orbit="102.9deg 98.18deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate>
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
+
 </p>
 <div id="Android">  
 <p>

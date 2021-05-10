@@ -15,13 +15,7 @@
 <model-viewer src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-android-2.glb?raw=true" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://github.com/jdosses/cartel-activista/blob/gh-pages/objetos/nomasviolencia-iOS-2.usdz?raw=true" camera-orbit="102.9deg 98.18deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate camera-controls>
 
     <div class="progress-bar hide" slot="progress-bar">
-        <div class="update-bar"></div>
-    </div>
-    <button slot="ar-button" id="ar-button">
-        View in your space
-    </button>
-    <div id="ar-prompt">
-        <img src="https://i.imgur.com/KollzUJ.jpg">
+        <div class="update-bar"><img src="https://i.imgur.com/KollzUJ.jpg"></div>
     </div>
 </model-viewer>
 

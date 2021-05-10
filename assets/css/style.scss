@@ -28,3 +28,6 @@ footer {
 visibility: hidden;
 opacity: 0;
 }
+footer::after {
+content: "Un recurso ciudadano - Cartel Activista";
+}

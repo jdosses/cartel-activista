@@ -1,6 +1,6 @@
 <html>
 <head>
-<meta http-equiv="AddType" content="model/vnd.reality">
+<meta http-equiv="AddType" content="model/vnd.usdz+zip">
 </head>
 <body>
 <div id="AR"> 

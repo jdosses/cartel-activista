@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta http-equiv="AddType" content="model/vnd.reality">
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </head>
 <body>
 <div id="AR"> 

@@ -2,6 +2,12 @@
 <head>
 <meta http-equiv="AddType" content="model/vnd.reality">
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<style>
+model-viewer {
+  width: 500px;
+  height: auto;
+}
+</style>
 </head>
 <body>
 <div id="AR"> 

@@ -5,7 +5,7 @@
 </head>
 <body>
 <div id="AR"> 
-<div id="preview-container" style="width: 100%; height: 100%;">
+<div id="preview-container" style="width:auto; height:100%;">
 <model-viewer src="https://jdosses.github.io/cartel-activista/nomasviolencia-android-2.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" ios-src="https://jdosses.github.io/cartel-activista/nomasviolencia-iOS-2.usdz#callToAction=Go%20back&checkoutTitle=No%20+%20ESMAD&checkoutSubtitle=¡Viva%20el%20paro%20Nacional!%20" camera-orbit="-159.3deg 88.4deg 1.401m" min-camera-orbit="auto auto auto" max-camera-orbit="auto auto 1.401m" auto-rotate poster="https://i.imgur.com/KollzUJ.jpg" alt="augmented reality 3d experience">
 </model-viewer>
 </div>
